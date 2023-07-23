@@ -5,6 +5,6 @@ This script create AD user and user folder in C:\Shared\ and was done with Do-Un
 Nested if-else and do-unitl constructions was used for better interaction.
 The script file can be executed from any folder. 
 WARNING: Default used domain is WSA.LAB. If your AD domain is different please edit script file: 
-line 31 of script need to be comment/disabled. Line 36 and 37 need to be enabled/uncomment.
+line 31 of script need to be comment/disabled and line 36 and 37 need to be enabled/uncomment.
 Script file was named: AD-user-creation-PSscript.ps1
 # Author: Panayot Petrov
