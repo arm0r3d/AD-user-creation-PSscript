@@ -9,5 +9,5 @@ The script file can be executed from any folder.
 WARNING: Default used domain is WSA.LAB. If your AD domain is different please edit script file: 
 line 31 of script need to be comment/disabled and line 36 and 37 need to be enabled/uncomment.
 #
-Script file was named: AD-user-creation-PSscript.ps1
+Source file: AD-user-creation-PSscript.ps1
 # Author: Panayot Petrov
